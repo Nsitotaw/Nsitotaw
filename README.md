@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning in ALX SE programme
 - 💞️ I’m looking to collaborate on different types of projects that have a multidisipliary character
-- 📫 How to reach me through my email: sitotawnati@gmail.com
+- 📫 How to reach me through my email: sitotawnati2017@gmail.com
 
 <!---
 Nsitotaw/Nsitotaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
